@@ -1,3 +1,12 @@
+
+![image](https://github.com/user-attachments/assets/74f0f07f-1dec-44d8-9b21-ff86fd1912a1)
+
+
+
+
+
+
+
 OpenLDAP and phpLDAPadmin Helm Chart
 Here's a complete Helm chart structure for deploying OpenLDAP and phpLDAPadmin on Kubernetes. This provides a cloud-native, reusable deployment solution.
 
